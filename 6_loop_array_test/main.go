@@ -33,7 +33,7 @@ func main() {
 
 	fmt.Println()
 
-	// 2. Make a map of 3 countries → capitals, and loop through them.
+	// 3. Make a map of 3 countries → capitals, and loop through them.
 	countries := map[string]string{
 		"Bangladesh": "Dhaka",
 		"Korea":      "Seoul",
